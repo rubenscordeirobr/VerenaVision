@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="src/VerenaVision.Common/VerenaVision.Common.csproj" Id="ecfa81e5-0453-4dc5-b622-2ec1e451ba72" />
+  <Project Path="src/VerenaVision.Domain/VerenaVision.Domain.csproj" />
+  <Project Path="src/VerenaVision.SharedKernel/VerenaVision.SharedKernel.csproj" />
+</Solution>
