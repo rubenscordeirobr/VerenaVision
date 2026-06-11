@@ -1,0 +1,21 @@
+<Project>
+    <PropertyGroup>
+        <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+        <CodeAnalysisVersion>4.12.0</CodeAnalysisVersion>
+        <MicrosoftAspNetVersion>9.0.3</MicrosoftAspNetVersion>
+        <AspireVersion>9.1.0</AspireVersion>
+        <OpenTelemetryVersion>1.11.0</OpenTelemetryVersion>
+    </PropertyGroup>
+    <ItemGroup>
+        <!-- 🔍 Code Analysis & Static Checks -->
+        <PackageVersion Include="Microsoft.CodeAnalysis.Analyzers" Version="$(CodeAnalysisVersion)" />
+        <PackageVersion Include="Microsoft.CodeAnalysis.Common" Version="$(CodeAnalysisVersion)" />
+        <PackageVersion Include="Microsoft.CodeAnalysis.CSharp" Version="$(CodeAnalysisVersion)" />
+        <PackageVersion Include="Microsoft.CodeAnalysis.CSharp.Workspaces" Version="$(CodeAnalysisVersion)" />
+        <PackageVersion Include="Microsoft.CodeAnalysis.Workspaces.Common" Version="$(CodeAnalysisVersion)" />
+        <PackageVersion Include="Microsoft.CodeAnalysis.Workspaces.MSBuild" Version="$(CodeAnalysisVersion)" />
+
+        <!-- 🛠️ Core .NET Libraries -->
+        
+    </ItemGroup>
+</Project>
