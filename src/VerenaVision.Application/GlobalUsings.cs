@@ -1,0 +1,17 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using VerenaVision.Application.Abstractions.Events;
+global using VerenaVision.Application.Abstractions.Services;
+global using VerenaVision.Common;
+global using VerenaVision.Common.Exceptions;
+global using VerenaVision.Common.Extensions;
+global using VerenaVision.Common.Helpers;
+global using VerenaVision.Domain.Entities.Identities;
+global using VerenaVision.Domain.Enums;
+global using VerenaVision.Domain.Exceptions;
+global using VerenaVision.Domain.Primitives;
+global using VerenaVision.Shared.Abstractions;
+global using VerenaVision.Shared.Constants;
+global using VerenaVision.Shared.Enums;
+global using VerenaVision.Shared.Interfaces.Common;
+global using VerenaVision.Shared.Interfaces.Identities;
