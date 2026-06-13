@@ -1,5 +1,14 @@
 <Solution>
-  <Project Path="src/VerenaVision.Common/VerenaVision.Common.csproj" Id="ecfa81e5-0453-4dc5-b622-2ec1e451ba72" />
-  <Project Path="src/VerenaVision.Domain/VerenaVision.Domain.csproj" />
-  <Project Path="src/VerenaVision.SharedKernel/VerenaVision.SharedKernel.csproj" />
+  <Folder Name="/solution-items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/VerenaVision.Application/VerenaVision.Application.csproj" Id="165c6f90-f0fe-4482-92b4-5919030c4744" />
+    <Project Path="src/VerenaVision.Common/VerenaVision.Common.csproj" Id="ecfa81e5-0453-4dc5-b622-2ec1e451ba72" />
+    <Project Path="src/VerenaVision.Domain/VerenaVision.Domain.csproj" />
+    <Project Path="src/VerenaVision.SharedKernel/VerenaVision.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/" />
 </Solution>
