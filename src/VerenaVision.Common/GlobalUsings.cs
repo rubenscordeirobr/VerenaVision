@@ -4,3 +4,4 @@ global using VerenaVision.Common.Exceptions;
 global using VerenaVision.Common.Extensions;
 global using VerenaVision.Common.Factories;
 global using VerenaVision.Common.Helpers;
+global using VerenaVision.Common.Utils;
