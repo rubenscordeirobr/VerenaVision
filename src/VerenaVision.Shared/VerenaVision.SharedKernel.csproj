@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<AnalysisMode>all</AnalysisMode>
+		<AnalysisLevel>latest</AnalysisLevel>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\VerenaVision.Common\VerenaVision.Common.csproj" />
+	</ItemGroup>
+
+</Project>
