@@ -7,7 +7,7 @@
 
 	<ItemGroup>
 	  <ProjectReference Include="..\VerenaVision.Common\VerenaVision.Common.csproj" />
-	  <ProjectReference Include="..\VerenaVision.SharedKernel\VerenaVision.SharedKernel.csproj" />
+	  <ProjectReference Include="..\VerenaVision.Shared\VerenaVision.Shared.csproj" />
 	</ItemGroup>
 
 </Project>
